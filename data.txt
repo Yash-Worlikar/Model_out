@@ -1,0 +1,248 @@
+Epoch [1/50], loss_g: 0.6286, loss_d: 1.7328, real_score: 0.2721, fake_score: 0.3504
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0001.png
+100%
+99/99 [00:37<00:00, 2.64it/s]
+Epoch [2/50], loss_g: 0.6725, loss_d: 1.3670, real_score: 0.6085, fake_score: 0.5812
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0002.png
+100%
+99/99 [00:37<00:00, 2.63it/s]
+Epoch [3/50], loss_g: 1.2870, loss_d: 1.3623, real_score: 0.5436, fake_score: 0.5289
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0003.png
+100%
+99/99 [00:37<00:00, 2.61it/s]
+Epoch [4/50], loss_g: 1.9500, loss_d: 0.7504, real_score: 0.6338, fake_score: 0.2549
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0004.png
+100%
+99/99 [00:37<00:00, 2.57it/s]
+Epoch [5/50], loss_g: 0.6492, loss_d: 1.6859, real_score: 0.3020, fake_score: 0.3866
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0005.png
+100%
+99/99 [00:37<00:00, 2.61it/s]
+Epoch [6/50], loss_g: 1.2251, loss_d: 0.8724, real_score: 0.4713, fake_score: 0.1133
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0006.png
+100%
+99/99 [00:37<00:00, 2.60it/s]
+Epoch [7/50], loss_g: 3.2694, loss_d: 0.7151, real_score: 0.4927, fake_score: 0.0072
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0007.png
+100%
+99/99 [00:37<00:00, 2.61it/s]
+Epoch [8/50], loss_g: 3.5864, loss_d: 2.0215, real_score: 0.9620, fake_score: 0.8623
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0008.png
+100%
+99/99 [00:38<00:00, 2.61it/s]
+Epoch [9/50], loss_g: 2.3518, loss_d: 0.6434, real_score: 0.5526, fake_score: 0.0490
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0009.png
+100%
+99/99 [00:38<00:00, 2.62it/s]
+Epoch [10/50], loss_g: 4.5596, loss_d: 0.0959, real_score: 0.9760, fake_score: 0.0691
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0010.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [11/50], loss_g: 3.9605, loss_d: 0.7043, real_score: 0.9561, fake_score: 0.4829
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0011.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [12/50], loss_g: 2.9678, loss_d: 3.5575, real_score: 0.9990, fake_score: 0.9715
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0012.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [13/50], loss_g: 3.1090, loss_d: 0.1463, real_score: 0.9853, fake_score: 0.1233
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0013.png
+100%
+99/99 [00:38<00:00, 2.62it/s]
+Epoch [14/50], loss_g: 6.1732, loss_d: 0.3110, real_score: 0.9354, fake_score: 0.2167
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0014.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [15/50], loss_g: 8.2064, loss_d: 0.2636, real_score: 0.9983, fake_score: 0.2304
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0015.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [16/50], loss_g: 0.0291, loss_d: 2.7813, real_score: 0.0637, fake_score: 0.0276
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0016.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [17/50], loss_g: 3.0178, loss_d: 0.0567, real_score: 0.9998, fake_score: 0.0549
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0017.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [18/50], loss_g: 4.6417, loss_d: 0.0938, real_score: 0.9963, fake_score: 0.0862
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0018.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [19/50], loss_g: 4.7524, loss_d: 0.0124, real_score: 0.9988, fake_score: 0.0111
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0019.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [20/50], loss_g: 5.8332, loss_d: 0.0124, real_score: 0.9996, fake_score: 0.0119
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0020.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [21/50], loss_g: 2.9304, loss_d: 0.1590, real_score: 0.8597, fake_score: 0.0077
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0021.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [22/50], loss_g: 8.6521, loss_d: 0.0158, real_score: 0.9869, fake_score: 0.0027
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0022.png
+100%
+99/99 [00:38<00:00, 2.57it/s]
+Epoch [23/50], loss_g: 7.8017, loss_d: 8.1190, real_score: 0.0003, fake_score: 0.0000
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0023.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [24/50], loss_g: 8.5167, loss_d: 0.0026, real_score: 0.9981, fake_score: 0.0007
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0024.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [25/50], loss_g: 9.6560, loss_d: 1.4033, real_score: 1.0000, fake_score: 0.7542
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0025.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [26/50], loss_g: 4.6066, loss_d: 0.0398, real_score: 0.9996, fake_score: 0.0387
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0026.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [27/50], loss_g: 6.0361, loss_d: 0.0171, real_score: 0.9934, fake_score: 0.0104
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0027.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [28/50], loss_g: 10.1023, loss_d: 0.0189, real_score: 0.9816, fake_score: 0.0003
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0028.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [29/50], loss_g: 6.2486, loss_d: 0.0105, real_score: 0.9939, fake_score: 0.0045
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0029.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [30/50], loss_g: 5.6493, loss_d: 0.0152, real_score: 0.9978, fake_score: 0.0129
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0030.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [31/50], loss_g: 6.1453, loss_d: 0.0065, real_score: 0.9989, fake_score: 0.0054
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0031.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [32/50], loss_g: 13.5309, loss_d: 0.0116, real_score: 0.9884, fake_score: 0.0000
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0032.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [33/50], loss_g: 7.7364, loss_d: 0.0004, real_score: 1.0000, fake_score: 0.0003
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0033.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [34/50], loss_g: 4.8560, loss_d: 0.0388, real_score: 0.9972, fake_score: 0.0353
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0034.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [35/50], loss_g: 8.4285, loss_d: 0.0083, real_score: 0.9919, fake_score: 0.0002
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0035.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [36/50], loss_g: 2.5315, loss_d: 0.1756, real_score: 1.0000, fake_score: 0.1610
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0036.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [37/50], loss_g: 9.1482, loss_d: 0.0006, real_score: 0.9996, fake_score: 0.0001
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0037.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [38/50], loss_g: 2.7523, loss_d: 0.6170, real_score: 0.5443, fake_score: 0.0087
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0038.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [39/50], loss_g: 6.2878, loss_d: 0.0371, real_score: 0.9944, fake_score: 0.0310
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0039.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [40/50], loss_g: 2.3840, loss_d: 0.1052, real_score: 0.9962, fake_score: 0.0964
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0040.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [41/50], loss_g: 4.5557, loss_d: 0.0140, real_score: 0.9995, fake_score: 0.0134
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0041.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [42/50], loss_g: 7.0078, loss_d: 0.0222, real_score: 0.9831, fake_score: 0.0052
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0042.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [43/50], loss_g: 7.1783, loss_d: 0.1373, real_score: 0.9983, fake_score: 0.1268
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0043.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [44/50], loss_g: 7.2934, loss_d: 0.0080, real_score: 0.9956, fake_score: 0.0036
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0044.png
+100%
+99/99 [00:38<00:00, 2.56it/s]
+Epoch [45/50], loss_g: 10.3808, loss_d: 2.9054, real_score: 0.9999, fake_score: 0.9453
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0045.png
+100%
+99/99 [00:38<00:00, 2.60it/s]
+Epoch [46/50], loss_g: 4.5035, loss_d: 0.0395, real_score: 0.9931, fake_score: 0.0320
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0046.png
+100%
+99/99 [00:38<00:00, 2.61it/s]
+Epoch [47/50], loss_g: 7.6043, loss_d: 0.2309, real_score: 0.9999, fake_score: 0.2061
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0047.png
+100%
+99/99 [00:38<00:00, 2.48it/s]
+Epoch [48/50], loss_g: 10.6357, loss_d: 0.0848, real_score: 0.9187, fake_score: 0.0000
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0048.png
+100%
+99/99 [00:38<00:00, 2.59it/s]
+Epoch [49/50], loss_g: 5.4719, loss_d: 0.0212, real_score: 0.9998, fake_score: 0.0208
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0049.png
+100%
+99/99 [00:38<00:00, 2.58it/s]
+Epoch [50/50], loss_g: 6.7847, loss_d: 0.0025, real_score: 0.9994, fake_score: 0.0019
+torch.Size([60, 3, 100, 100])
+Saving generated-images-0050.png
